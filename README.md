@@ -7,4 +7,4 @@ Learning how to create a Native Android App using the Java programming language,
 
 [LICENSE](/LICENSE)
 
-See [original repository app](https://github.com/digitalinnovationone/soccer-news-app) and [api](https://github.com/digitalinnovationone/soccer-news-api)
+See original repository [app](https://github.com/digitalinnovationone/soccer-news-app) and [api](https://github.com/digitalinnovationone/soccer-news-api)
